@@ -1,11 +1,3 @@
-// Kalkulator konsol sederhana
-// Cara pakai:
-//  - Jalankan: dart run kalkulator.dart
-//  - Masukkan operasi dalam bentuk: 3 + 4
-//    atau: 12.5 * 2
-//  - Operator yang didukung: +  -  *  /  %  ^ (pangkat)
-//  - Ketik 'q' atau 'quit' untuk keluar
-
 import 'dart:io';
 import 'dart:math';
 
@@ -149,4 +141,5 @@ void main(List<String> args) {
 		}
 	}
 }
+
 
