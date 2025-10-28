@@ -1,10 +1,14 @@
-Berikut versi yang sudah clean dan siap kamu salin langsung 👇
-
----
-
 # 🧮 Kalkulator Konsol Dart
 
 Aplikasi **kalkulator konsol sederhana** berbasis **Dart**, dengan dukungan evaluasi ekspresi lengkap — termasuk *operator precedence*, tanda kurung, dan *unary minus*.
+
+---
+
+## 👤 Identitas
+
+**Nama:** Mukhammad Alfaen Fadillah
+**NIM:** H1D023032
+**Shift:** B → E
 
 ---
 
@@ -52,22 +56,3 @@ Aplikasi **kalkulator konsol sederhana** berbasis **Dart**, dengan dukungan eval
 * Tidak mendukung variabel atau fungsi seperti `sin()`, `cos()`, atau `log()`.
 
 ---
-
-## 🌱 Pengembangan Lanjutan (Opsional)
-
-Ingin dikembangkan lebih jauh? Kamu bisa menambahkan:
-
-* Fungsi matematika tambahan: `sin`, `cos`, `log`, `sqrt`, dll.
-* Fitur *history* atau *command recall* dengan CLI interaktif.
-* Versi GUI menggunakan **Flutter** untuk tampilan visual.
-
----
-
-## 📄 Lisensi
-
-Gunakan sesuka hati — **bebas untuk dikembangkan, dimodifikasi, dan dibagikan**.
-Jika diinginkan, bisa ditambahkan header lisensi atau file `LICENSE`.
-
----
-
-✨ *Dibuat dengan Dart dan rasa penasaran yang tinggi.*
